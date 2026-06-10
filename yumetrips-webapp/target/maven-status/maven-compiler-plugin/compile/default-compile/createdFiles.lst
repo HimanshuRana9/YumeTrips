@@ -1,0 +1,7 @@
+com\yume\trips\servlet\RegisterServlet.class
+com\yume\trips\servlet\HotelsServlet.class
+com\yume\trips\servlet\DestinationsServlet.class
+com\yume\trips\servlet\LoginServlet.class
+com\yume\trips\servlet\PlannerServlet.class
+com\yume\trips\servlet\HomeServlet.class
+com\yume\trips\servlet\RouteMapServlet.class
